@@ -1,1 +1,2 @@
+#!/bin/bash
 jupyter kernelspec install PREFIX/share/jupyter/kernels/xoctave --sys-prefix
