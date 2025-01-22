@@ -4,3 +4,4 @@ channels:
 dependencies:
   # Build dependencies
   - xeus-octave
+  - jupyterlab
