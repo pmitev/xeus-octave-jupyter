@@ -5,3 +5,7 @@ dependencies:
   # Build dependencies
   - xeus-octave
   - jupyterlab
+  - plotly
+  - ipywidgets
+  - jupyter-dash
+  - jupyter-server<2.0.0
