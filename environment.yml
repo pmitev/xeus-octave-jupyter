@@ -8,4 +8,4 @@ dependencies:
   - plotly
   - ipywidgets
   - jupyter-dash
-  - jupyter-server<2.0.0
+  - jupyterlab-server<2.0.0
